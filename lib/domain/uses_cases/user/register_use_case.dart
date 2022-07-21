@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:app_restaurant_flutter/data/models/user/user_model.dart';
 import 'package:app_restaurant_flutter/domain/repositories/user/user_repository.dart';
 

@@ -1,4 +1,3 @@
-import 'package:app_restaurant_flutter/domain/entities/user/user.dart';
 import 'package:app_restaurant_flutter/domain/repositories/user/user_repository.dart';
 
 ///*
